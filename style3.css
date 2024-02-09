@@ -1,3 +1,12 @@
 section {
     margin-top: 90px;
 }
+
+div {
+    height: 30px;
+    width: 200px;
+    background-color: bisque;
+    border: 2px solid black;
+    margin: 2px;
+    text-align: center;
+}
