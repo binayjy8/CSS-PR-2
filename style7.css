@@ -21,3 +21,17 @@ div {
     top: 100px;
     left: 100px;
 }
+
+#absolute {
+    background-color: blueviolet;
+    position: absolute;
+    top: 100px;
+    left: 100px;
+}
+
+#fixed {
+    background-color: blueviolet;
+    position: fixed;
+    top: 100px;
+    left: 100px;
+}
