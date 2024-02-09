@@ -14,3 +14,17 @@
     top: 240px;
     left: 100px;
 }
+
+.eye {
+    height: 100px;
+    width: 100px;
+    background-color: black;
+}
+
+.left-eye {
+    height: 100px;
+    width: 100px;
+    background-color: black;
+    border-radius: 50%;
+    display: inline-block;
+}
