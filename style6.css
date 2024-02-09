@@ -4,9 +4,20 @@
     display: inline-block;
     border: 2px solid black;
     border-radius: 5px;
+    box-shadow: 2px 4px 10px yellowgreen;
+    margin: 20px;
+    transition: 1s;
+}
+
+.des {
+    padding: 0 3px 0 4px;
 }
 
 img {
     width: 100px;
     border-radius: 5px 5px 0 0;
+}
+
+.card:hover {
+    box-shadow: 4px 6px 12px rgb(228, 181, 181);
 }
