@@ -10,3 +10,11 @@ div {
     margin: 2px;
     text-align: center;
 }
+
+div:nth-of-type(2n) {
+    background-color: yellowgreen;
+}
+
+div:nth-of-type(3n) {
+    background-color: rgb(216, 227, 61);
+}
