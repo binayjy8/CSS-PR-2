@@ -18,3 +18,7 @@ div:nth-of-type(2n) {
 div:nth-of-type(3n) {
     background-color: rgb(216, 227, 61);
 }
+
+#one {
+    transform: rotate(45deg);
+}
