@@ -1,0 +1,9 @@
+div {
+    background-color: greenyellow;
+    height: 100px;
+    width: 100px;
+    border: 2px solid black;
+    display: inline-block;
+    margin: 20px;
+    text-align: center;
+}
