@@ -15,16 +15,19 @@
     left: 100px;
 }
 
-.eye {
-    height: 100px;
-    width: 100px;
-    background-color: black;
-}
 
-.left-eye {
+.left-eye,
+.right-eye {
     height: 100px;
     width: 100px;
     background-color: black;
     border-radius: 50%;
     display: inline-block;
+    position: absolute;
+    top: 70px;
+    left: 90px;
+}
+
+.right-eye {
+    left: 210px;
 }
