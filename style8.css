@@ -18,16 +18,16 @@
 
 .left-eye,
 .right-eye {
-    height: 100px;
-    width: 100px;
+    height: 50px;
+    width: 50px;
     background-color: black;
     border-radius: 50%;
     display: inline-block;
     position: absolute;
-    top: 70px;
+    top: 100px;
     left: 90px;
 }
 
 .right-eye {
-    left: 210px;
+    left: 250px;
 }
